@@ -1,4 +1,4 @@
-# File-sharing-Bot
+# Mobmovies-File-sharing-Bot
 
 <p align="center">
   <a href="https://www.python.org">
@@ -25,10 +25,6 @@
 
 Telegram Bot to store Posts and Documents and it can Access by Special Links.
 I Guess This Will Be Usefull For Many People.....😇. 
-
-##
-
-**If you need any more modes in repo or If you find out any bugs, mention in [@codexbotzsupport ](https://www.telegram.dog/codexbotzsupport)**
 
 ### Features
 - Fully customisable.
@@ -108,17 +104,6 @@ python3 main.py
 
 * `{filename}` - file name of the Document
 * `{previouscaption}` - Original Caption
-
-
-## Support   
-Join Our [Telegram Group](https://www.telegram.dog/codexbotzsupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
-   
-Report Bugs, Give Feature Requests There..   
-
-### Credits
-
-- Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
-- Our Support Group Members
 
 ### Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
